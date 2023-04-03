@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\bin\Debug\net6.0\AppCode.exe
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\bin\Debug\net6.0\AppCode.deps.json
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\bin\Debug\net6.0\AppCode.runtimeconfig.json
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\bin\Debug\net6.0\AppCode.dll
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\bin\Debug\net6.0\AppCode.pdb
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.dll
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\refint\AppCode.dll
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.pdb
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\AppCode.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Pulpit\IV semestr\trash\staże\App\AppCode\AppCode\obj\Debug\net6.0\ref\AppCode.dll
